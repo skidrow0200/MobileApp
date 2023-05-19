@@ -1,0 +1,8 @@
+.dart_tool
+build
+.flutter-plugins.flutter-plugins
+.flutter-plugins-dependencies.flutter-plugins
+.metadata.metadata
+analysis_options.yaml
+pubspec.lock
+lib/backend/node_modules
